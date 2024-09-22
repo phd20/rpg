@@ -6,7 +6,7 @@ But one seeks to understand. You spent years studying the stars to slowly pull b
 
 **Ability Scores:** Intelligence, Wisdom, Charisma
 
-**Feat:** [Seeker of Truth](/Feats/SeekerOfTruth.md)
+**Feat:** [Seeker of Truth](/Feats/Seeker-of-Truth.md)
 
 **Skill Proficiencies:** Investigation and Nature
 
