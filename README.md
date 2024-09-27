@@ -1,5 +1,9 @@
-# rpg
+# RPG Resource Repository
 
 RPG resources for tabletop roleplaying games like Dungeons & Dragons.
 
-**In-Progress:** Licensing for the content in this repository. I plan to release some or all of this for your use. In the mean time, feel free to use it in personal projects but reach out directly if you're interested in using it commercially. 
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Feel free to use this content in any way allowed by the license, provided that you include the following attribution statement in your work:
+
+> This work incorporates material from the RPG Resource Repository by Kirk Wiebe of PhD20.com, provided under the Creative Commons Attribution 4.0 International License.
