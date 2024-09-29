@@ -1,6 +1,6 @@
 # Physician
 
-> “This is the burden every physician must learn to bear. You can't look upon death as the enemy.” - *The Physician (2013)*
+> "A physician's burden is not just to heal but to understand that death is not the enemy, merely a part of the path we all must walk. To ease suffering, you must know when to fight and when to accept the inevitable, offering comfort in life’s final moments."
 
 You are a trained physician. You may have started out as a simple barber surgeon. Perhaps you attended a structured school or university. Either way, you know more about the mysteries of the human (or other) body than everyone around you. You can easily identify wounds, diseases, and illnesses. You know the materials and methods needed to attend to them.
 
