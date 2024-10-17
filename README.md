@@ -13,6 +13,7 @@ A special shout-out to patrons of PhD20. Their support helps advance projects li
 - Matt Click
 - SamDark
 - Emil Johan
+- Qello More
 
 ## License
 
