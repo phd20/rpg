@@ -15,7 +15,9 @@ A special shout-out to patrons of PhD20. Their support helps advance projects li
 - Emil Johan
 - Qello More
 
-🚫🤖 All material is **100% human-made**. Generative AI is **not** used during any part of the process to create this material. 
+## A Note on Generative AI
+
+🚫🤖 All material in the RPG Resource Repository is **100% human-made**. Generative AI is **not** used during any part of the process to create this material. 
 
 ## License
 
