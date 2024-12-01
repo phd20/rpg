@@ -20,6 +20,9 @@ A special shout-out to patrons of PhD20. Their support helps advance projects li
 - Matthew Nicholas
 - Matthew Sanders
 - Snuggie
+- Noah Lemay
+- Waterhouse
+- Amius
 
 ## A Note on Generative AI
 
