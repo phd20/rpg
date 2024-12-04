@@ -23,6 +23,7 @@ A special shout-out to patrons of PhD20. Their support helps advance projects li
 - Noah Lemay
 - Waterhouse
 - Amius
+- Eloy Gray
 
 ## A Note on Generative AI
 
