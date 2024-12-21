@@ -19,9 +19,11 @@ A special shout-out to patrons of PhD20. Their support helps advance projects li
 - Matthew Sanders
 - Snuggie
 - Noah Lemay
-- Waterhouse
-- Amius
 - Eloy Gray
+- Victor Gonzalez
+- Brian Finn
+- Patrick Burn
+- Nophil
 
 ## A Note on Generative AI
 
