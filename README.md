@@ -23,7 +23,10 @@ A special shout-out to patrons of PhD20. Their support helps advance projects li
 - Victor Gonzalez
 - Brian Finn
 - Patrick Burn
-- Nophil
+- Rebekah Penn
+- moose33 3
+- Nói Kristinsson
+- Tom Wright
 
 ## A Note on Generative AI
 
