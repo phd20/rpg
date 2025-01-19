@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> The RPG Resource Repository has moved to [this Github repository](https://github.com/phd20/rpg-resource-repository) and can be accessed at [open.phd20.com](https://open.phd20.com).
+
 # RPG Resource Repository
 
 RPG resources for tabletop roleplaying games like Dungeons & Dragons. At the time of writing this, you'll find generic (ex. random tables) and 5E (ex. backgrounds, feats, etc) resources. For the latter, I try to target 2024 rules, where possible. 
